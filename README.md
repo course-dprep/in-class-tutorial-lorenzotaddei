@@ -25,4 +25,5 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 ## Update
 - Checking whether the issue's branch is updated  
 - Merging it to the main branch
-- Check whether git status show something
+- Check whether git status show something (nothong happened)
+- Let's try again
