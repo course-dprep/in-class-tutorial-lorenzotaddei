@@ -23,5 +23,5 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 - Many possible improvements remain. Comments and contributions are welcome!
 
 ## Update
-[x] Checking whether the issue's branch is updated  
-[ ] Merging it to the main branch
+( [x] ) Checking whether the issue's branch is updated  
+( [] ) Merging it to the main branch
